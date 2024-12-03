@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Complaint Form Neo BBB.props" />
+</Project>

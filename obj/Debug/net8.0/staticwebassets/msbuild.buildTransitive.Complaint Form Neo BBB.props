@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Complaint Form Neo BBB.props" />
+</Project>

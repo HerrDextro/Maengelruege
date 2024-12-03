@@ -1,0 +1,46 @@
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\appsettings.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Complaint Form Neo BBB.staticwebassets.runtime.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Complaint Form Neo BBB.exe
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Complaint Form Neo BBB.deps.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Complaint Form Neo BBB.runtimeconfig.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Complaint Form Neo BBB.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Complaint Form Neo BBB.pdb
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.AssemblyInfoInputs.cache
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.AssemblyInfo.cs
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.RazorAssemblyInfo.cache
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.RazorAssemblyInfo.cs
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets\msbuild.Complaint Form Neo BBB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets\msbuild.build.Complaint Form Neo BBB.props
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Complaint Form Neo BBB.props
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Complaint Form Neo BBB.props
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\scopedcss\bundle\Complaint Form Neo BBB.styles.css
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\scopedcss\projectbundle\Complaint Form Neo BBB.bundle.scp.css
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\refint\Complaint Form Neo BBB.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.pdb
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.genruntimeconfig.cache
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\ref\Complaint Form Neo BBB.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Spire.Doc.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complaint Form Neo BBB.csproj.AssemblyReference.cache
+C:\Users\Neo\source\repos\Complaint Form Neo BBB\Complaint Form Neo BBB\obj\Debug\net8.0\Complain.72B097F0.Up2Date
