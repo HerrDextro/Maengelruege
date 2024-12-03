@@ -1,0 +1,16 @@
+Dein Name
+Deine Adresse (Strasse, Hausnummer)
+Deine Ortschaft mit Postleitzahl
+Name der Firma
+Name des Adressanten
+Adresse des Adressanten
+Ortschaft des Adressanten
+aktueller Ort
+aktuelles Datum
+Kaufdatum
+Produkt
+Mangel 1
+Mangel 2
+Mangel 3
+Dein Telefon
+Deine E-Mail
