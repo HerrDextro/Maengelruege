@@ -15,18 +15,34 @@ Planung 05.11.2024
 - [x] Arbeit verteilen
 
 Joshua:
-- [ ] "PDF" sender class
-- [ ] convert .txt to word (word for now)
-- [ ] Kommunikation: fragen, ob email mit PDF als Ausgabe ok ist (bis 09.11.2024)
+- [x] AnswerService
+- [x] convert .txt to word (word for now)
+- [x] Kommunikation: fragen, ob email mit PDF als Ausgabe ok ist (bis 09.11.2024)
+- [x] Präsentation
+- [ ] Webiste für Intergration demo
 
 Alex:
-- [ ] Question reader
-- [ ] PDF maker (not PDF but .txt for now)
+- [x] Question reader
+- [x] PDF maker (not PDF but .txt for now)
+- [x] Präsentation Struktur
+- [x] Dokumentation
+- [x] Server backend? (optional)
 
 Neo:
 - [x] Create ASP.NET project
-- [ ] Create Git Main Brach mit Projekt
-- [ ] Create Program.cs and UI.cs
+- [x] Create Git Main Brach mit Projekt
+- [x] Create backend IndexlModel
+- [x] Backend PrivacyModel
+- [x] Dynamic HTML generation
+- [x] Indexes match mit Template
+- [x] integration of Joshua Alex and my code
+- [ ] HTML / CSS Polishing of website (non essential)
+- [ ] Conditions/regex/inputvalidation
+- [ ] AGB general conditions (optional)
+- [ ] (optional) WebApp hosting
+- [ ] (optional) WebApp integration mit website
+- [ ] (optional) Multi threading classes instances etc etc etc etc fixed
+
 
 Notizen:
 - kein PDF sonder Word als ausgabe
